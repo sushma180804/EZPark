@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605976168439",
+    "project_id": "ezpark-app-c930f",
+    "storage_bucket": "ezpark-app-c930f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605976168439:android:5b557a4213c9012f71d0f2",
+        "android_client_info": {
+          "package_name": "com.ezpark.ezpark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JEOoByfrWFwkxTpoUSwR16vsSgbo36M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
